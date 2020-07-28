@@ -1,5 +1,5 @@
 # Object-detection-and-tracking-demo
-sample combine Tensorflow detection function and tracking function
+This project just change a little bit code in ahmetozlu project, add the class id for final output, not just show the object_XX. 
 ## Environment
 * cuda (choose version by you os and tensorflow version)
 * cudnn (choose version by you os and tensorflow version)
