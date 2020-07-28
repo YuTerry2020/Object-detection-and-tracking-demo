@@ -14,7 +14,7 @@ This project just change a little bit code in ahmetozlu project, add the class i
 * model : faster_rcnn_inception_v2_coco_2018_01_28
 ## How to work
 * After building eniveronment, personal model, and fix two python file
-* commend : python counting.py
+* commend : python object_tracking.py
 ## Reference
 * Tensorflow object detection environment build
   * EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
