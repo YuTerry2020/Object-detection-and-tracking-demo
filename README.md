@@ -9,9 +9,10 @@ This project just change a little bit code in ahmetozlu project, add the class i
 * openCV
 * labelImg
 ## File explain
-* counting.py: It has tensorflow object detection class ,mqtt funciton and flask framework
-* visualization_utils_count.py: count function
-* model : faster_rcnn_inception_v2_coco_2018_01_28
+* object_tracking.py: It has opencv show functiion
+* detection_layer.py: Tensorflow object detection
+* backone.py: tracking function
+* model : train by faster_rcnn_inception_v2_pets.config
 ## How to work
 * After building eniveronment, personal model, and fix two python file
 * commend : python object_tracking.py
